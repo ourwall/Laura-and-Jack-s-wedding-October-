@@ -1,5 +1,5 @@
 const SUPABASE_URL = 'https://wynsipybuskswbogoomx.supabase.co';
-const SUPABASE_ANON_KEY = 'sb_publishable_cBfTt9Z9R6ByKTAYecRVpw_TltjjOCH';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhvcnBidHljdmpnYW1lZ3pqbmVvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA2MTY4MzMsImV4cCI6MjEwNjE5MjgzM30.fijOcU_B4QAAu13C6BTrkBps96WsJPX2fwQubrk_aWs';
 
 const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
